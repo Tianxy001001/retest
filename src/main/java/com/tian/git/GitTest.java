@@ -5,6 +5,6 @@ public class GitTest {
         System.out.println("hello.git");
         System.out.println("田湘怡");
         System.out.println("田田");
-        System.out.println("tianxybaby");
+        System.out.println("hot-fix test");
     }
 }
